@@ -1,0 +1,1 @@
+alert("saying Hi Pakistan from different file");
